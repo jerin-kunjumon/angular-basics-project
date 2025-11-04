@@ -1,0 +1,7 @@
+app-profile {
+  background-color: red;
+}
+
+:host ::ng-deep .child-element{
+  color: yellowgreen;
+}
